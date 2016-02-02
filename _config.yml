@@ -66,9 +66,6 @@ duoshuo_shortname: XSVOI
 google_analytics: UA-73216170-1
 baidu_analytics: //hm.baidu.com/hm.js?2daa8630dbf60bbf388f278d049288e5
 
-# Swiftype站内搜索
-swiftype_key: EB_Z5bfSSc4Ryx-FUp-c
-
 since: 2016
 
 deploy:
